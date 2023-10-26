@@ -16,21 +16,15 @@ work without interrupting the main branch
 ```
 $ git branch-test/
 $ git init
-```
 
-```
 $ echo "# practicing git branching and merging" >> README.md
 $ cat README.md
 # practing git branching and merging
-```
 
-```
 $ echo "first edition" >> edition.txt
 $ cat edition.txt
 first edition
-```
 
-```
 $ ls -lha
 ```
 
